@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">MindMattersApp</string>
     <string name="welcome">Bienvenido a Mind Matters</string>
+    <string name="registrar">Registrate</string>
 </resources>
