@@ -1,0 +1,4 @@
+com/example/mindmattersapp/BuildConfig.java
+ com.example.mindmattersapp.BuildConfig
+com/example/mindmattersapp/MainActivity.java
+ com.example.mindmattersapp.MainActivity
