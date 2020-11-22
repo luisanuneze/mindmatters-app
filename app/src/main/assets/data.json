@@ -1,0 +1,14 @@
+{
+  "data": [
+    {"nombreCompleto" : "Jessica Massiel Avilez",
+    "email": "Jessica@gmail.com"},
+    {"nombreCompleto" : "Laura Guiselle Gradiz Pineda",
+      "email": "Laura@gmail.com"},
+    {"nombreCompleto" : "Luis Felipe Castellón Edwards",
+      "email": "luisfce@gmail.com"},
+    {"nombreCompleto" : "Luisamara Nuñez Espinoza",
+      "email": "LuisaNuñez@gmail.com"},
+    {"nombreCompleto" : "Marcos Antonio Berrios",
+      "email": "Marcos@gmail.com"}
+  ]
+}
