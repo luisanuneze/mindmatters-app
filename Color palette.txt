@@ -1,0 +1,4 @@
+Teal: 97BCC7
+White: F2F1EF
+Navy Blue: 053D57
+Blue Green: 006884

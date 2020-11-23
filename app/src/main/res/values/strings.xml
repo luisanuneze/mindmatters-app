@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">MindMattersApp</string>
-    <string name="welcome">Bienvenido a Mind Matters</string>
+    <string name="welcome">Bienvenido a Mind Matters App</string>
+    <string name="entrar">Entrar</string>
+    <string name="login">Inicio de Sesión</string>
+    <string name="a">a</string>
+    <string name="tv_registro">Regístrate</string>
+    <string name="tv_cuenta">¿No tienes una cuenta?</string>
+    <string name="tv_forgottenpass">Olvidé mi contraseña</string>
 </resources>
