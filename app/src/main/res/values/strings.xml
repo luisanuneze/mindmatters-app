@@ -2,4 +2,6 @@
     <string name="app_name">MindMattersApp</string>
     <string name="welcome">Bienvenido a Mind Matters</string>
     <string name="registrar">Registrate</string>
+    <string name="bienvenido_diario">Bienvenido a tu Diario</string>
+    <string name="mensaje_main_diario">No has añadido páginas en tu diario, añade páginas y comienza a redactar tus experiencias</string>
 </resources>
