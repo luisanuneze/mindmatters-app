@@ -1,4 +1,8 @@
+com/example/mindmattersapp/data/UserConfig.java
+ com.example.mindmattersapp.data.UserConfig
 com/example/mindmattersapp/BuildConfig.java
  com.example.mindmattersapp.BuildConfig
 com/example/mindmattersapp/MainActivity.java
  com.example.mindmattersapp.MainActivity
+com/example/mindmattersapp/models/UserModel.java
+ com.example.mindmattersapp.models.UserModel
