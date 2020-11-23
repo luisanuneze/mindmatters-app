@@ -25,6 +25,27 @@
         android:background="@drawable/topwave"
         app:layout_constraintTop_toBottomOf="@+id/topview" />
 
+    <TextView
+        android:id="@+id/tv_login"
+        android:layout_width="298dp"
+        android:layout_height="48dp"
+        android:layout_marginStart="71dp"
+        android:layout_marginLeft="71dp"
+        android:layout_marginTop="66dp"
+        android:layout_marginEnd="42dp"
+        android:layout_marginRight="42dp"
+        android:layout_marginBottom="617dp"
+        android:fontFamily="@font/googlesans_bold"
+        android:gravity="center"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="1.0" />
+
     <EditText
         android:id="@+id/tv_user"
         android:layout_width="357dp"
@@ -81,28 +102,6 @@
         app:srcCompat="@drawable/ic_gmail"
         tools:ignore="VectorDrawableCompat" />
 
-    <TextView
-        android:id="@+id/tv_login"
-        android:layout_width="298dp"
-        android:layout_height="48dp"
-        android:layout_marginStart="71dp"
-        android:layout_marginLeft="71dp"
-        android:layout_marginTop="66dp"
-        android:layout_marginEnd="42dp"
-        android:layout_marginRight="42dp"
-        android:layout_marginBottom="617dp"
-        android:fontFamily="@font/googlesans_bold"
-        android:gravity="center"
-        android:text="@string/login"
-        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
-        android:textColor="#FFFFFF"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.0"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="1.0" />
-
     <Button
         android:id="@+id/btn_login"
         android:layout_width="121dp"
@@ -154,6 +153,7 @@
         android:layout_marginBottom="239dp"
         android:fontFamily="@font/googlesans_regular"
         android:text="@string/tv_forgottenpass"
+        android:textColor="#8C8888"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

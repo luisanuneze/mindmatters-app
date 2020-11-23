@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\ec4dd897d4037390d3cac18fc3984d5c\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\a527ad4f532df6b258c428a911debd89\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -32,25 +32,25 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Marcos\.gradl
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\af090a78eaea8296976d6555a3a135f2\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\4277c449ae4e7defb11901a027a49277\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\01339aeadc2379d14234ec1725fb1d1d\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:3:5-41
 		INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.2.1] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\b988cdf40af7cdf3e0317011f8e5bfe7\material-1.2.1\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Marcos\.gradle\caches\transforms-2\files-2.1\ec4dd897d4037390d3cac18fc3984d5c\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -73,20 +73,24 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ma
 		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:6:9-35
 	android:theme
 		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.example.mindmattersapp.register
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:12:9-55
+	android:name
+		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:12:19-43
 activity#com.example.mindmattersapp.MainActivity
-ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:12:9-18:20
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:13:9-19:20
 	android:name
-		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:12:19-47
+		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:13:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:13:13-17:29
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:14:17-69
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:15:17-69
 	android:name
-		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:14:25-66
+		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:16:17-77
+ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:17:17-77
 	android:name
-		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:16:27-74
+		ADDED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml:17:27-74
 uses-sdk
 INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Marcos\Desktop\ISI\Semestres\IIS-2020\Desarrollo de Aplicaciones Moviles I\MindMattersApp\app\src\main\AndroidManifest.xml
