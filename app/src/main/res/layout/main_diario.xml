@@ -5,53 +5,90 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:background="@color/teal">
+    android:background="#F2F1EF">
 
-    <!-- Rectangle 29 -->
+    <View
+    android:id="@+id/topview"
+    android:layout_width="0dp"
+    android:layout_height="100dp"
+    android:layout_marginBottom="631dp"
+    android:background="@color/teal"
+    app:layout_constraintBottom_toBottomOf="parent"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toTopOf="parent" />
 
-
-    <!-- drawable/rectangle_2.xml -->
-    <!--<View
-        android:id="@+id/rectangle_2"
-        android:layout_width="411dp"
-        android:layout_height="255dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:background="@color/teal"
-        tools:ignore="MissingConstraints" />-->
-
-
-
-    <!-- Bienvenido a tu diario -->
-    <TextView
-        android:id="@+id/bienvenido_diario"
-        android:layout_width="337dp"
-        android:layout_height="126dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:gravity="top"
-        android:lineHeight="46sp"
-        android:text="@string/bienvenido_diario"
-        android:textAppearance="@style/bienvenido_"
-        android:textColor="@color/white"
-        android:textSize="48sp"
+    <View
+        android:id="@+id/wave"
+        android:layout_width="423dp"
+        android:layout_height="192dp"
+        android:background="@drawable/topwave"
+        app:layout_constraintTop_toBottomOf="@+id/topview"
         tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="37dp"
-        tools:layout_editor_absoluteY="84dp" />
+        tools:layout_editor_absoluteX="0dp" />
 
     <TextView
-        android:id="@+id/mensaje_main_diario"
-        android:layout_width="306dp"
-        android:layout_height="42dp"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentTop="true"
-        android:gravity="center_horizontal|top"
+        android:id="@+id/tv_mainDiario"
+        android:layout_width="352dp"
+        android:layout_height="78dp"
+        android:fontFamily="@font/googlesans_bold"
+        android:gravity="center"
+        android:text="@string/bienvenido_diario"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+        android:textColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="@+id/wave"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/topview"
+        app:layout_constraintVertical_bias="0.344" />
+
+    <TextView
+        android:id="@+id/tv_mensajeDiario"
+        android:layout_width="275dp"
+        android:layout_height="58dp"
+        android:fontFamily="@font/googlesans_regular"
+        android:gravity="center"
         android:text="@string/mensaje_main_diario"
         android:textColor="@color/navy_blue"
-        android:textSize="12sp"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="52dp"
-        tools:layout_editor_absoluteY="377dp" />
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/wave"
+        app:layout_constraintTop_toBottomOf="@+id/wave"
+        app:layout_constraintVertical_bias="0.202" />
 
+    <View
+        android:id="@+id/buttonview"
+        android:layout_width="0dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="208dp"
+        android:background="@color/navy_blue"
+        app:layout_constraintEnd_toEndOf="@+id/wave"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tv_mensajeDiario" />
+
+    <View
+        android:id="@+id/wave2"
+        android:layout_width="426dp"
+        android:layout_height="113dp"
+        android:background="@drawable/buttomwave"
+        app:layout_constraintBottom_toTopOf="@+id/buttonview"
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="-8dp" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="24dp"
+        android:layout_marginRight="24dp"
+        android:layout_marginBottom="24dp"
+        android:clickable="true"
+        android:focusable="auto"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:srcCompat="@android:drawable/ic_input_add"
+        tools:ignore="MissingConstraints" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
