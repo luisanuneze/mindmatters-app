@@ -9,4 +9,10 @@
     <string name="tv_forgottenpass">Olvidé mi contraseña</string>
     <string name="mensaje_main_diario">No has añadido páginas en tu diario, añade páginas y comienza a redactar tus experiencias</string>
     <string name="bienvenido_diario">Bienvenido a tu Diario</string>
+
+    <!--FORUM ACTIVITY STRINGS-->
+    <string name="forumWelcome">Hola (Usuario)</string>
+    <string name="forumMessage">Puedes buscar temas de tu interes en los foros.</string>
+    <string name="forumHint">Buscar...</string>
+
 </resources>
