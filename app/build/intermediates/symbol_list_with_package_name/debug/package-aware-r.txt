@@ -1534,6 +1534,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable buttomwave
+drawable corners
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1547,6 +1548,7 @@ drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_search
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1554,6 +1556,8 @@ drawable material_ic_keyboard_arrow_left_black_24dp
 drawable material_ic_keyboard_arrow_right_black_24dp
 drawable material_ic_menu_arrow_down_black_24dp
 drawable material_ic_menu_arrow_up_black_24dp
+drawable meditacion
+drawable mindfulness
 drawable mtrl_dialog_background
 drawable mtrl_dropdown_arrow
 drawable mtrl_ic_arrow_drop_down
@@ -1576,6 +1580,9 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
+drawable pazmental
+drawable pazmental_background
+drawable relajacion
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
@@ -1674,11 +1681,13 @@ id beginning
 id blocking
 id bottom
 id bounce
+id btnSearchTopic
 id btn_login
 id buttonPanel
 id buttonview
 id cache_measures
 id cancel_button
+id cardViewPokemon
 id center
 id center_horizontal
 id center_vertical
@@ -1737,6 +1746,7 @@ id edit_query
 id end
 id enterAlways
 id enterAlwaysCollapsed
+id etSearchTopic
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1785,6 +1795,7 @@ id line3
 id linear
 id listMode
 id list_item
+id lySearchBox
 id masked
 id message
 id middle
@@ -1854,6 +1865,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvTopics
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -1941,6 +1953,8 @@ id title_template
 id toggle
 id top
 id topPanel
+id topicImg
+id topicTitle
 id topview
 id touch_outside
 id transitionToEnd
@@ -1951,6 +1965,8 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tvForumMessage
+id tvForumWelcome
 id tv_cuentanueva
 id tv_forgottenpass
 id tv_login
@@ -2033,6 +2049,7 @@ layout abc_search_dropdown_item_icons_2line
 layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
+layout activity_forum
 layout activity_main
 layout activity_register
 layout bien_info
@@ -2054,6 +2071,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout diario_pagina
+layout forum_item
 layout main_diario
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
@@ -2154,6 +2172,9 @@ string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
 string fab_transformation_sheet_behavior
+string forumHint
+string forumMessage
+string forumWelcome
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description

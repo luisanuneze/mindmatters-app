@@ -1,4 +1,4 @@
-#Mon Nov 23 02:23:18 CST 2020
-base.0=C\:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Wed Nov 25 20:12:17 CST 2020
+base.0=C\:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
