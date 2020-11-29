@@ -12,7 +12,7 @@
         android:id="@+id/cardViewPokemon"
         android:layout_gravity="center"
         android:layout_width="match_parent"
-        android:layout_height="200dp"
+        android:layout_height="190dp"
         card_view:cardCornerRadius="20dp"
         android:elevation="200dp"
         android:layout_margin="3dp">
@@ -29,7 +29,7 @@
                 android:layout_weight="1"
                 android:adjustViewBounds="true"
                 android:contentDescription="TODO"
-                android:scaleType="centerInside"/>
+                android:scaleType="centerCrop"/>
 
             <TextView
                 android:id="@+id/topicTitle"
@@ -41,7 +41,8 @@
                 android:paddingLeft="10dp"
                 android:textAppearance="@style/TextAppearance.AppCompat.Medium"
                 android:textStyle="bold"
-                android:textSize="30sp"
+                android:textSize="28sp"
+                android:autoSizeTextType="uniform"
                 android:gravity="center_horizontal"
                 android:textColor="@color/white"
                 android:padding="10dp"

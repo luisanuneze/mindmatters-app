@@ -17,13 +17,14 @@ com/example/mindmattersapp/data/UserConfig.java
  com.example.mindmattersapp.data.UserConfig
 com/example/mindmattersapp/BuildConfig.java
  com.example.mindmattersapp.BuildConfig
-com/example/mindmattersapp/MainActivity.java
- com.example.mindmattersapp.MainActivity
-com/example/mindmattersapp/activities/ForumActivity.java
- com.example.mindmattersapp.activities.ForumActivity
-com/example/mindmattersapp/models/EditPerfil.java
- com.example.mindmattersapp.models.EditPerfil
-com/example/mindmattersapp/models/Topics.java
- com.example.mindmattersapp.models.Topics
 com/example/mindmattersapp/models/UserModel.java
  com.example.mindmattersapp.models.UserModel
+com/example/mindmattersapp/models/Topics.java
+ com.example.mindmattersapp.models.Topics
+com/example/mindmattersapp/models/EditPerfil.java
+ com.example.mindmattersapp.models.EditPerfil
+com/example/mindmattersapp/activities/ForumActivity.java
+ com.example.mindmattersapp.activities.ForumActivity
+com/example/mindmattersapp/MainActivity.java
+ com.example.mindmattersapp.MainActivity
+ com.example.mindmattersapp.MainActivity$1
