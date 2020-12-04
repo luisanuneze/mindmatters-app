@@ -1539,12 +1539,14 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable ic_gmail
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_wave_navyb
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
 drawable material_ic_edit_black_24dp
@@ -1577,6 +1579,14 @@ drawable notify_panel_notification_icon_bg
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
+drawable topwave
+font googlesans
+font googlesans_bold
+font googlesans_bolditalic
+font googlesans_italic
+font googlesans_medium
+font googlesans_mediumitalic
+font googlesans_regular
 id ALT
 id BOTTOM_END
 id BOTTOM_START
@@ -1665,6 +1675,8 @@ id bienvenido_diario
 id blocking
 id bottom
 id bounce
+id btn_login
+id btn_login2
 id buttonPanel
 id cache_measures
 id cancel_button
@@ -1751,6 +1763,8 @@ id hideable
 id home
 id homeAsUp
 id honorRequest
+id ib_gmail
+id ib_gmail2
 id icon
 id icon_group
 id ifRoom
@@ -1914,6 +1928,8 @@ id textEnd
 id textSpacerNoButtons
 id textSpacerNoTitle
 id textStart
+id textView
+id textView2
 id text_input_end_icon
 id text_input_start_icon
 id textinput_counter
@@ -1929,6 +1945,7 @@ id title_template
 id toggle
 id top
 id topPanel
+id topview1
 id touch_outside
 id transitionToEnd
 id transitionToStart
@@ -1938,13 +1955,29 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tv_cuentanueva
+id tv_email
+id tv_forgottenpass
+id tv_login
+id tv_login2
+id tv_nombrecom
+id tv_pass
+id tv_pass2
+id tv_password
+id tv_registro
+id tv_user
+id tv_usuario
 id unchecked
 id uniform
 id unlabeled
 id up
 id useLogo
+id view
+id view2
 id view_offset_helper
 id visible
+id wave
+id wave2
 id withText
 id withinBounds
 id wrap
@@ -2011,6 +2044,9 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_main
+layout activity_register
+layout bien_info
+layout bien_main
 layout custom_dialog
 layout design_bottom_navigation_item
 layout design_bottom_sheet_dialog
@@ -2027,6 +2063,7 @@ layout design_navigation_menu
 layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
+layout diario_pagina
 layout main_diario
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
@@ -2062,6 +2099,8 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
+layout perfil_edit
+layout perfil_main
 layout select_dialog_item_material
 layout select_dialog_multichoice_material
 layout select_dialog_singlechoice_material
@@ -2083,6 +2122,7 @@ layout text_view_without_line_height
 mipmap ic_launcher
 mipmap ic_launcher_round
 plurals mtrl_badge_content_description
+string a
 string abc_action_bar_home_description
 string abc_action_bar_up_description
 string abc_action_menu_overflow_description
@@ -2114,11 +2154,13 @@ string app_name
 string appbar_scrolling_view_behavior
 string bienvenido_diario
 string bottom_sheet_behavior
+string btn_registro
 string character_counter_content_description
 string character_counter_overflowed_content_description
 string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
+string entrar
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
 string fab_transformation_scrim_behavior
@@ -2126,6 +2168,7 @@ string fab_transformation_sheet_behavior
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description
+string login
 string material_slider_range_end
 string material_slider_range_start
 string mensaje_main_diario
@@ -2169,9 +2212,12 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
-string registrar
 string search_menu_title
 string status_bar_notification_info_overflow
+string tv_cuenta
+string tv_forgottenpass
+string tv_registro
+string tv_registro2
 string welcome
 style AlertDialog_AppCompat
 style AlertDialog_AppCompat_Light
@@ -2866,7 +2912,6 @@ style Widget_MaterialComponents_Toolbar_PrimarySurface
 style Widget_MaterialComponents_Toolbar_Surface
 style Widget_MaterialComponents_Tooltip
 style Widget_Support_CoordinatorLayout
-style bienvenido_
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

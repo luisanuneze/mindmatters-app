@@ -7,4 +7,9 @@
     <string name="tv_registro">Regístrate</string>
     <string name="tv_cuenta">¿No tienes una cuenta?</string>
     <string name="tv_forgottenpass">Olvidé mi contraseña</string>
+    <string name="tv_registro2">Registro</string>
+    <string name="btn_registro">Regístrate</string>
+    <string name="mensaje_main_diario">Aquí va a ir chagüite xd</string>
+    <string name="bienvenido_diario">Bienvenido a tu Diario</string>
+    <string name="conf">Te hemos enviado un mensaje de confirmación a través del correo electrónico proporcionado.</string>
 </resources>

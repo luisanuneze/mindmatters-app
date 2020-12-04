@@ -1,8 +1,22 @@
+com/example/mindmattersapp/models/InfoBien.java
+ com.example.mindmattersapp.models.InfoBien
+com/example/mindmattersapp/models/MainDiario.java
+ com.example.mindmattersapp.models.MainDiario
+com/example/mindmattersapp/models/PaginaDiario.java
+ com.example.mindmattersapp.models.PaginaDiario
 com/example/mindmattersapp/data/UserConfig.java
  com.example.mindmattersapp.data.UserConfig
 com/example/mindmattersapp/BuildConfig.java
  com.example.mindmattersapp.BuildConfig
-com/example/mindmattersapp/MainActivity.java
- com.example.mindmattersapp.MainActivity
+com/example/mindmattersapp/models/MainPerfil.java
+ com.example.mindmattersapp.models.MainPerfil
+com/example/mindmattersapp/models/MainBien.java
+ com.example.mindmattersapp.models.MainBien
+com/example/mindmattersapp/models/EditPerfil.java
+ com.example.mindmattersapp.models.EditPerfil
+com/example/mindmattersapp/register.java
+ com.example.mindmattersapp.register
 com/example/mindmattersapp/models/UserModel.java
  com.example.mindmattersapp.models.UserModel
+com/example/mindmattersapp/MainActivity.java
+ com.example.mindmattersapp.MainActivity
