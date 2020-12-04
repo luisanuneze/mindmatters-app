@@ -8,20 +8,18 @@
     tools:context=".menuprincipal">
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/cardView3"
         android:layout_width="160dp"
         android:layout_height="200dp"
         android:layout_marginStart="25dp"
         android:layout_marginLeft="25dp"
-        android:layout_marginTop="456dp"
-        android:layout_marginEnd="226dp"
-        android:layout_marginRight="226dp"
         android:layout_marginBottom="75dp"
         app:cardBackgroundColor="@color/teal"
         app:cardCornerRadius="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintTop_toBottomOf="@id/cardView"
+        app:layout_constraintRight_toLeftOf="@id/cardView4">
 
         <ImageView
             android:id="@+id/imageView5"
@@ -36,18 +34,17 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/cardView"
         android:layout_width="160dp"
         android:layout_height="200dp"
-        android:layout_marginStart="25dp"
-        android:layout_marginLeft="25dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginLeft="24dp"
         android:layout_marginTop="195dp"
-        android:layout_marginEnd="226dp"
-        android:layout_marginRight="226dp"
-        android:layout_marginBottom="336dp"
         app:cardBackgroundColor="@color/teal"
         app:cardCornerRadius="30dp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginBottom="30dp"
+        app:layout_constraintBottom_toTopOf="@id/cardView3"
+        app:layout_constraintRight_toLeftOf="@id/cardView2"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -60,19 +57,18 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/cardView2"
         android:layout_width="160dp"
         android:layout_height="200dp"
-        android:layout_marginStart="223dp"
-        android:layout_marginLeft="223dp"
         android:layout_marginTop="195dp"
         android:layout_marginEnd="28dp"
         android:layout_marginRight="28dp"
-        android:layout_marginBottom="336dp"
+        android:layout_marginBottom="20dp"
         app:cardBackgroundColor="@color/teal"
         app:cardCornerRadius="30dp"
-        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/cardView4"
+        app:layout_constraintLeft_toRightOf="@id/cardView"
         app:layout_constraintTop_toTopOf="parent">
 
         <ImageView
@@ -84,20 +80,19 @@
     </androidx.cardview.widget.CardView>
 
     <androidx.cardview.widget.CardView
+        android:id="@+id/cardView4"
         android:layout_width="160dp"
         android:layout_height="200dp"
-        android:layout_marginStart="223dp"
-        android:layout_marginLeft="223dp"
-        android:layout_marginTop="456dp"
         android:layout_marginEnd="28dp"
         android:layout_marginRight="28dp"
         android:layout_marginBottom="75dp"
+        android:layout_marginTop="13dp"
         app:cardBackgroundColor="@color/teal"
         app:cardCornerRadius="30dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        app:layout_constraintLeft_toRightOf="@id/cardView3"
+        app:layout_constraintTop_toBottomOf="@id/cardView2">
 
         <ImageView
             android:id="@+id/imageView6"
@@ -105,6 +100,7 @@
             android:layout_height="130dp"
             android:layout_gravity="center"
             app:srcCompat="@drawable/ic_groupf" />
+
     </androidx.cardview.widget.CardView>
 
     <TextView
@@ -113,11 +109,15 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="111dp"
         android:layout_marginLeft="111dp"
-        android:layout_marginTop="110dp"
+        android:layout_marginTop="72dp"
+        android:layout_marginEnd="111dp"
+        android:layout_marginRight="111dp"
         android:fontFamily="@font/googlesans_bold"
-        android:text="Mind Matters"
+        android:text="@string/mind_matters"
         android:textColor="@color/navy_blue"
         android:textSize="30sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -127,23 +127,30 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="69dp"
         android:layout_marginLeft="69dp"
-        android:layout_marginTop="410dp"
+        android:layout_marginTop="0dp"
         android:fontFamily="@font/googlesans_regular"
-        android:text="Directorio"
+        android:text="@string/directorio"
+        android:textColor="@color/navy_blue"
+        android:textColorHint="@color/navy_blue"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/cardView"
+        app:layout_constraintBottom_toTopOf="@id/cardView3"/>
 
     <TextView
         android:id="@+id/tv_bienestar"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="410dp"
-        android:layout_marginEnd="73dp"
-        android:layout_marginRight="73dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="72dp"
+        android:layout_marginRight="72dp"
+        android:layout_marginBottom="0dp"
         android:fontFamily="@font/googlesans_regular"
-        android:text="Bienestar"
+        android:text="@string/bienestar"
+        android:textColor="@color/navy_blue"
+        android:textColorHint="#FFFFFF"
+        app:layout_constraintBottom_toTopOf="@+id/cardView4"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/cardView2" />
 
     <TextView
         android:id="@+id/tv_diario"
@@ -151,22 +158,24 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="77dp"
         android:layout_marginLeft="77dp"
-        android:layout_marginTop="664dp"
+        android:layout_marginTop="8dp"
         android:fontFamily="@font/googlesans_regular"
         android:text="Diario"
+        android:textColor="@color/navy_blue"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/cardView3" />
 
     <TextView
         android:id="@+id/tv_foros"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="664dp"
+        android:layout_marginTop="8dp"
         android:layout_marginEnd="87dp"
         android:layout_marginRight="87dp"
         android:fontFamily="@font/googlesans_regular"
         android:text="Foros"
+        android:textColor="@color/navy_blue"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toBottomOf="@+id/cardView4" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

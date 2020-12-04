@@ -12,4 +12,12 @@
     <string name="mensaje_main_diario">Aquí va a ir chagüite xd</string>
     <string name="bienvenido_diario">Bienvenido a tu Diario</string>
     <string name="conf">Te hemos enviado un mensaje de confirmación a través del correo electrónico proporcionado.</string>
+    <string name="pwd">Contraseña</string>
+    <string name="email">Email</string>
+    <string name="confirmar">Confirmar contraseña</string>
+
+    <string name="nomcom">Nombre completo</string>
+    <string name="directorio">Directorio</string>
+    <string name="mind_matters">Mind Matters</string>
+    <string name="bienestar">Bienestar</string>
 </resources>

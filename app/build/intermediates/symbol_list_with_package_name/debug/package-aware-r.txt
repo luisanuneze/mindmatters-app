@@ -1684,6 +1684,10 @@ id btn_login2
 id buttonPanel
 id cache_measures
 id cancel_button
+id cardView
+id cardView2
+id cardView3
+id cardView4
 id center
 id center_horizontal
 id center_vertical
@@ -2168,6 +2172,7 @@ string abc_shareactionprovider_share_with_application
 string abc_toolbar_collapse_description
 string app_name
 string appbar_scrolling_view_behavior
+string bienestar
 string bienvenido_diario
 string bottom_sheet_behavior
 string btn_registro
@@ -2177,6 +2182,9 @@ string character_counter_pattern
 string chip_text
 string clear_text_end_icon_content_description
 string conf
+string confirmar
+string directorio
+string email
 string entrar
 string error_icon_content_description
 string exposed_dropdown_menu_content_description
@@ -2189,6 +2197,7 @@ string login
 string material_slider_range_end
 string material_slider_range_start
 string mensaje_main_diario
+string mind_matters
 string mtrl_badge_numberless_content_description
 string mtrl_chip_close_icon_content_description
 string mtrl_exceed_max_badge_number_content_description
@@ -2224,11 +2233,13 @@ string mtrl_picker_toggle_to_calendar_input_mode
 string mtrl_picker_toggle_to_day_selection
 string mtrl_picker_toggle_to_text_input_mode
 string mtrl_picker_toggle_to_year_selection
+string nomcom
 string password_toggle_content_description
 string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
+string pwd
 string search_menu_title
 string status_bar_notification_info_overflow
 string tv_cuenta
