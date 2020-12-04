@@ -18,6 +18,7 @@ com/example/mindmattersapp/BuildConfig.java
  com.example.mindmattersapp.BuildConfig
 com/example/mindmattersapp/MainActivity.java
  com.example.mindmattersapp.MainActivity
+ com.example.mindmattersapp.MainActivity$1
 com/example/mindmattersapp/menuprincipal.java
  com.example.mindmattersapp.menuprincipal
 com/example/mindmattersapp/models/EditPerfil.java
