@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.MindMattersApp" >
+        <activity android:name="com.example.mindmattersapp.activity_confirmacion" />
+        <activity android:name="com.example.mindmattersapp.menuprincipal" />
         <activity android:name="com.example.mindmattersapp.register" />
         <activity android:name="com.example.mindmattersapp.MainActivity" >
             <intent-filter>
