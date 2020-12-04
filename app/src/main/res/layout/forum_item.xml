@@ -9,7 +9,7 @@
 
     <!-- A CardView that contains a TextView -->
     <androidx.cardview.widget.CardView
-        android:id="@+id/cardViewPokemon"
+        android:id="@+id/cardViewPokemonTopic"
         android:layout_gravity="center"
         android:layout_width="match_parent"
         android:layout_height="190dp"

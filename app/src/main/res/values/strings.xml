@@ -11,10 +11,7 @@
     <string name="bienvenido_diario">Bienvenido a tu Diario</string>
 
     <!--FORUM ACTIVITY STRINGS-->
-    <string name="forumWelcome">Hola (Usuario)</string>
+    <string name="forumWelcome">Hola</string>
     <string name="forumMessage">Puedes buscar temas de tu interes en los foros.</string>
     <string name="forumHint">Buscar...</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
-
 </resources>

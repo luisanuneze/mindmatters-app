@@ -1697,7 +1697,7 @@ id buttonview
 id cache_measures
 id cancel_action
 id cancel_button
-id cardViewPokemon
+id cardViewPokemonTopic
 id center
 id center_horizontal
 id center_vertical
@@ -2002,6 +2002,7 @@ id withText
 id withinBounds
 id wrap
 id wrap_content
+id wvTopic
 id zero_corner_chip
 integer abc_config_activityDefaultDur
 integer abc_config_activityShortDur
@@ -2064,6 +2065,7 @@ layout abc_search_view
 layout abc_select_dialog_material
 layout abc_tooltip
 layout activity_forum
+layout activity_forum_web_view
 layout activity_main
 layout activity_register
 layout bien_info
@@ -2199,7 +2201,6 @@ string fab_transformation_sheet_behavior
 string forumHint
 string forumMessage
 string forumWelcome
-string hello_blank_fragment
 string hide_bottom_view_on_scroll_behavior
 string icon_content_description
 string item_view_role_description

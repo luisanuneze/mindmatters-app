@@ -9,7 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.MindMattersApp">
+        <activity android:name=".models.PaginaDiario"></activity>
+        <activity android:name=".models.MainDiario" />
         <activity android:name=".activities.ForumActivity"></activity>
+        <activity android:name=".activities.forum.ForumWebActivity"></activity>
         <activity android:name=".register" />
         <activity android:name=".MainActivity">
             <intent-filter>
