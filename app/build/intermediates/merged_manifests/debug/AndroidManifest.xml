@@ -18,6 +18,8 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.MindMattersApp" >
+        <activity android:name="com.example.mindmattersapp.models.PaginaDiario" />
+        <activity android:name="com.example.mindmattersapp.models.MainDiario" />
         <activity android:name="com.example.mindmattersapp.register" />
         <activity android:name="com.example.mindmattersapp.MainActivity" >
             <intent-filter>

@@ -156,6 +156,14 @@
         "source": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
+        "merged": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_diary_adapter.xml.flat",
+        "source": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\src\\main\\res\\layout\\diary_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_corner.xml.flat",
+        "source": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\src\\main\\res\\drawable\\button_corner.xml"
+    },
+    {
         "merged": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_buttomwave.png.flat",
         "source": "C:\\Users\\Marcos\\Desktop\\ISI\\Semestres\\IIS-2020\\Desarrollo de Aplicaciones Moviles I\\MindMattersApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\buttomwave.png"
     },

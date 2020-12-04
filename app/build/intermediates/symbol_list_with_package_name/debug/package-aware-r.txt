@@ -1534,6 +1534,7 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable buttomwave
+drawable button_corner
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
 drawable design_ic_visibility
@@ -1675,8 +1676,10 @@ id blocking
 id bottom
 id bounce
 id btn_login
+id buttonCancel
+id buttonHecho
+id buttonNPD
 id buttonPanel
-id buttonview
 id cache_measures
 id cancel_button
 id center
@@ -1749,7 +1752,6 @@ id fitToContents
 id fixed
 id flip
 id floating
-id floatingActionButton
 id forever
 id ghost_view
 id ghost_view_holder
@@ -1854,6 +1856,7 @@ id right_icon
 id right_side
 id rounded
 id row_index_key
+id rvDiario
 id save_non_transition_alpha
 id save_overlay_view
 id sawtooth
@@ -1941,6 +1944,7 @@ id title_template
 id toggle
 id top
 id topPanel
+id topicCard
 id topview
 id touch_outside
 id transitionToEnd
@@ -1951,13 +1955,17 @@ id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
 id triangle
+id tv_cardFecha
+id tv_cardTitle
+id tv_contenido
 id tv_cuentanueva
+id tv_date
 id tv_forgottenpass
 id tv_login
 id tv_mainDiario
-id tv_mensajeDiario
 id tv_pass
 id tv_registro
+id tv_title
 id tv_user
 id unchecked
 id uniform
@@ -1967,7 +1975,6 @@ id useLogo
 id view_offset_helper
 id visible
 id wave
-id wave2
 id withText
 id withinBounds
 id wrap
@@ -2054,6 +2061,7 @@ layout design_navigation_menu_item
 layout design_text_input_end_icon
 layout design_text_input_start_icon
 layout diario_pagina
+layout diary_adapter
 layout main_diario
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions
