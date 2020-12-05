@@ -1,162 +1,310 @@
 [
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menuwave.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_menuwave.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_doctor_details.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_doctor_details.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gmail.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_gmail.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_add.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_medium.ttf.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_medium.ttf"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_bolditalic.ttf.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_bolditalic.ttf"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_forum_item.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout-v26\\forum_item.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vectorbe.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_vectorbe.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_vectorbe.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_vectorbe.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_italic.ttf.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_italic.ttf"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menuwave.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_menuwave.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_italic.ttf.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_italic.ttf"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_confirmacion.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout-v26\\activity_confirmacion.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mensaje2.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\mensaje2.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_groupdp.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_groupdp.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_navyb.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_wave_navyb.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cerrar_sobre.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_cerrar_sobre.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_regular.ttf.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_regular.ttf"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_forum_web_view.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout-v26\\activity_forum_web_view.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_vectorborde.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\vectorborde.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirmacion.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_confirmacion.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor3.PNG.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\doctor3.PNG"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_regular.ttf.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_regular.ttf"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menuprincipal.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_menuprincipal.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor1.PNG.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\doctor1.PNG"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_button_corner.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\button_corner.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_forum_web_view.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_forum_web_view.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_topwave.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\topwave.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_meditacion.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\meditacion.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_search.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_wave_navyb.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_wave_navyb.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mensaje1.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\mensaje1.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_wellbeing_item.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\wellbeing_item.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_groupf.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_groupf.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_diario_pagina.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\diario_pagina.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_linearlayoutbutton.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_linearlayoutbutton.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_medium.ttf.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_medium.ttf"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\location.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor4.PNG.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\doctor4.PNG"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_bolditalic.ttf.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_bolditalic.ttf"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_pazmental.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\pazmental.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_corners.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\corners.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_mediumitalic.ttf.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_mediumitalic.ttf"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font-v26_googlesans.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font-v26\\googlesans.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_doctor2.PNG.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\doctor2.PNG"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_bold.ttf.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_bold.ttf"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_groupf.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_groupf.xml"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mensaje4.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\mensaje4.png"
     },
     {
-        "merged": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group.xml.flat",
-        "source": "C:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_group.xml"
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mindfulness.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\mindfulness.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_forum.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout-v26\\activity_forum.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_activity_confirmacion.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout-v26\\activity_confirmacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_diary_adapter.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\diary_adapter.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_phone.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\phone.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menu.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_display_message.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_display_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_menuprincipal.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_menuprincipal.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_groupdp.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_groupdp.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_main_diario.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\main_diario.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_wellbeing.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_wellbeing.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_confirmacion.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_confirmacion.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gridlayoutbutton.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_gridlayoutbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_topwave.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\topwave.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_img_default.jpg.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\img_default.jpg"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_directorio.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\activity_directorio.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_cerrar_sobre.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_cerrar_sobre.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_group.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_mediumitalic.ttf.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_mediumitalic.ttf"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font_googlesans_bold.ttf.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font\\googlesans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_mensaje3.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\mensaje3.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_doctor_item.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\layout\\doctor_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\font-v26_googlesans.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\font-v26\\googlesans.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_gmail.xml.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\ic_gmail.xml"
+    },
+    {
+        "merged": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_relajacion.png.flat",
+        "source": "C:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\src\\main\\res\\drawable\\relajacion.png"
     }
 ]

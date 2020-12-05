@@ -1,4 +1,4 @@
-#Fri Dec 04 13:29:13 CST 2020
-base.0=C\:\\Users\\luisa\\Documents\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+#Fri Dec 04 19:27:20 CST 2020
+base.0=C\:\\Users\\luisf\\AndroidStudioProjects\\MindMattersApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex

@@ -2,6 +2,7 @@
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/white"
     xmlns:app="http://schemas.android.com/apk/res-auto">
 
     <TextView
@@ -23,7 +24,6 @@
         android:layout_height="wrap_content"
         android:fontFamily="@font/googlesans_bold"
         android:paddingTop="10dp"
-        android:text="Buscar"
         android:textColor="@color/teal"
         android:textSize="16sp"
         app:layout_constraintBottom_toTopOf="@id/lySearchBox"
@@ -49,7 +49,7 @@
             android:id="@+id/btnSearchTopic"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:src="@drawable/ic_search"
+            app:srcCompat="@drawable/ic_search"
             android:background="@drawable/corners"
             android:scaleType="centerInside"
             android:padding="10dp"

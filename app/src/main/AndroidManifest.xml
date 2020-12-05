@@ -2,6 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.mindmattersapp">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
@@ -10,6 +12,14 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.MindMattersApp">
         <activity android:name=".activity_confirmacion"></activity>
+        <activity android:name=".activities.ForumActivity"></activity>
+        <activity android:name=".activities.forum.ForumWebActivity"></activity>
+        <activity android:name=".models.MainDiario"></activity>
+        <activity android:name=".models.PaginaDiario"></activity>
+        <activity android:name=".activities.DirectorioActivity"></activity>
+        <activity android:name=".activities.DisplayMessageActivity"></activity>
+        <activity android:name=".activities.DoctorDetailsActivity"></activity>
+        <activity android:name=".activities.WellBeingActivity"></activity>
         <activity android:name=".menuprincipal" />
         <activity android:name=".register" />
         <activity android:name=".MainActivity">

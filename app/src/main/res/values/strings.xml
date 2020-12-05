@@ -20,4 +20,9 @@
     <string name="directorio">Directorio</string>
     <string name="mind_matters">Mind Matters</string>
     <string name="bienestar">Bienestar</string>
+
+    <!--FORUM ACTIVITY STRINGS-->
+    <string name="forumWelcome">Hola</string>
+    <string name="forumMessage">Puedes buscar temas de tu interes en los foros.</string>
+    <string name="forumHint">Buscar...</string>
 </resources>
